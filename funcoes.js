@@ -1,1 +1,1 @@
-function saudar() { console.log('Ola Mundo'); }
+function dizerOla() { console.log('Ola Mundo'); }
